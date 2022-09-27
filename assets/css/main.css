@@ -2847,6 +2847,7 @@ input, select, textarea {
 			#header .logo > * {
 				display: inline-block;
 				vertical-align: middle;
+				horizontal-align: middle;
 			}
 
 			#header .logo .symbol {
@@ -2855,8 +2856,8 @@ input, select, textarea {
 
 				#header .logo .symbol img {
 					display: block;
-					width: 6em;
-					height: 6em;
+					width: 3em;
+					height: 3em;
 				}
 
 		#header nav {
